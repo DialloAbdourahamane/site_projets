@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<galleryName>Stack Gallery</galleryName>
+	<settings>
+		<caption color="0x000000" fontName="Arial" />
+		<frameColor>0xffffff</frameColor>
+		<image width="300" height="200" />
+		<imageScaleMode>fill</imageScaleMode>
+		<visibleImages>5</visibleImages>
+		<usePhotoNumbers>true</usePhotoNumbers>
+		<translation back="BACK" gotoLink="Go to Link" />
+		<soundEffect></soundEffect>
+		<slideshow>false</slideshow>
+		<picasa
+			user=""
+			albumID=""
+		/>
+		<flickr
+			userID=""
+			photosetID=""
+			tags=""
+		/>
+		<loader>true</loader>
+	</settings>
+	<items>
+		<item source="http://www.gdnlteamtest.netsoro.net/wordpress/wp-content/flgallery/images/j7advwtg.jpg" description="" link="" target="" />
+		<item source="http://www.gdnlteamtest.netsoro.net/wordpress/wp-content/flgallery/images/7wattouo.png" description="" link="" target="" />
+		<item source="http://www.gdnlteamtest.netsoro.net/wordpress/wp-content/flgallery/images/wa9m224m.gif" description="" link="" target="" />
+		<item source="http://www.gdnlteamtest.netsoro.net/wordpress/wp-content/flgallery/images/9hr91jho.png" description="" link="" target="" />
+		<item source="http://www.gdnlteamtest.netsoro.net/wordpress/wp-content/flgallery/tmp/img-vag3g3jr.600x401.jpg" description="" link="" target="" />
+	</items>
+</gallery>
